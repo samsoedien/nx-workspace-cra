@@ -1,6 +1,10 @@
 {
+  "private": true,
   "name": "smdn-project",
   "version": "0.0.0",
+  "description": "Fullstack web application using react frontend and express backend",
+  "repository": "https://github.com/samsoedien/smdn-project.git",
+  "author": "Nathan Samsoedien <contact@samsoedien.com> (https://samsoedien.com)",
   "license": "MIT",
   "scripts": {
     "nx": "nx",
@@ -25,7 +29,6 @@
     "dep-graph": "nx dep-graph",
     "help": "nx help"
   },
-  "private": true,
   "dependencies": {
     "core-js": "^3.6.5",
     "document-register-element": "1.13.1",
