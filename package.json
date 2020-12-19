@@ -76,6 +76,7 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "husky": "^4.3.6",
     "jest": "26.2.2",
+    "jest-watch-typeahead": "^0.6.1",
     "prettier": "2.1.2",
     "react-app-rewired": "^2.1.8",
     "react-scripts": "^4.0.1",
